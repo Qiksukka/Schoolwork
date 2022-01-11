@@ -1,0 +1,1 @@
+Here I had to create a program that does approximately the same as wc but with mmap handling the file.

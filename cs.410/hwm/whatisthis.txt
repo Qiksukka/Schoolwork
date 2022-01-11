@@ -1,0 +1,3 @@
+Here I created my first kernel module.
+
+It had to printout a message to the user whenever they read the /proc file of this module.
